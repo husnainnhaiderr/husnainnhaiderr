@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**husnainnhaiderr/husnainnhaiderr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Husnain**, a Computer Science student at **Bilkent University, Türkiye**.
 
-Here are some ideas to get you started:
+- 🎓 Currently studying: Computer Science
+- 💻 Programming: C, C++, Java, Python
+- 🧠 Interests: Software Engineering, Artificial Intelligence, Algorithms & Competitive Programming
+- 🌱 Currently learning: Data Structures, Algorithms, OOP & Software Development
+- 🔭 Working on: Personal projects and university coursework
+- 🤝 Open to: Collaborating on programming and software projects
+- 💬 Ask me about: C++, Java, Python, algorithms, and programming
+- 📍 Based in: Ankara, Türkiye
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting my profile!
